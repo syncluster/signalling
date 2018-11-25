@@ -1,0 +1,29 @@
+{
+  "name": "signalling",
+  "version": "1.0.0",
+  "description": "opinionated isomorphic domain signalling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syncluster/signalling.git"
+  },
+  "keywords": [
+    "isomorphic",
+    "domain",
+    "driven",
+    "design",
+    "signalling"
+  ],
+  "author": "eduardo@syncluster.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syncluster/signalling/issues"
+  },
+  "homepage": "https://github.com/syncluster/signalling#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
